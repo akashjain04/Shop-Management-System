@@ -41,7 +41,7 @@ Install the following softwares.
 * [Microsoft SQL Server](https://www.microsoft.com/en-in/sql-server/sql-server-downloads). 
 
 #### Follow the following steps:-
-****
+
 1) Run the SQL commands for creating of tables, Views, Stored Procedures. SQL Commands are available in SQL file.
 
 2) Run the database and connect it to the visual Studio.
@@ -52,7 +52,7 @@ Install the following softwares.
 
 5) Run the application.
 
-#### References:-
+### References:-
 ****
  
 
