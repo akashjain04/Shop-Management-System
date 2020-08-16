@@ -52,6 +52,17 @@ Install the following softwares.
 
 5) Run the application.
 
+#### Outputs:-
+****
+![Login](https://github.com/akashjain04/Shop-Management-System/blob/master/Output/login.png?raw=true)
+![Home](https://github.com/akashjain04/Shop-Management-System/blob/master/Output/home.png?raw=true)
+![Create Order](https://github.com/akashjain04/Shop-Management-System/blob/master/Output/create%20Order.png?raw=true)
+![Add Customer](https://github.com/akashjain04/Shop-Management-System/blob/master/Output/add_customer.png?raw=true)
+![View Product details](https://github.com/akashjain04/Shop-Management-System/blob/master/Output/View%20product%20details.png?raw=true)
+![Delete Stock](https://github.com/akashjain04/Shop-Management-System/blob/master/Output/delete%20stock.png?raw=true)
+![Report Order](https://github.com/akashjain04/Shop-Management-System/blob/master/Output/Report%20order.png?raw=true)
+![Update Vendor](https://github.com/akashjain04/Shop-Management-System/blob/master/Output/update%20vendor.png?raw=true)
+
 ### References:-
 ****
  
